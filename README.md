@@ -38,6 +38,7 @@
 - I have used Extent reporting for reporting soon the scripts completes to execute :
 - The Results are under the project folder called : target
 
+report-results.png
 ![report-results.png](report-results.png)
 
 
