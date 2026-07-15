@@ -18,6 +18,7 @@
 ### Project access on Github
 
 - Clone the project : https://github.com/Jiyanenm/TeamX_Automation_Test_.git
+- Uzip Folder named : TeamX_Automation_Test_
 
 ### Project Structure
 
